@@ -1,2 +1,2 @@
-# Syntecxhub_Project_Name
-It's about command-line calculator supporting + , −, × , ÷ and  clear.
+# Syntecxhub_Simple_Calculator
+Simple command-line calculator supporting + , −, × , ÷, clear and quit options.
